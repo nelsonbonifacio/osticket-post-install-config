@@ -38,8 +38,7 @@ Purpose: Define what each group of agents can and cannot do in the system.
 **Path:** `Admin Panel → Agents → Roles`  
 Example Role: **Supreme Admin**  
 
-![Roles Screenshot](<img width="953" height="371" alt="Screenshot 2025-08-23 at 9 03 01 AM" src="https://github.com/user-attachments/assets/e404676c-1b43-49c2-ac38-7e608afa72e0" />
-)
+![Roles Screenshot](https://github.com/user-attachments/assets/e404676c-1b43-49c2-ac38-7e608afa72e0)
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
 
@@ -52,8 +51,7 @@ Purpose: Organize your helpdesk into logical groups; tickets can be assigned to 
 **Path:** `Admin Panel → Agents → Departments`  
 Example Department: **SysAdmins**
 
-![Departments Screenshot](<img width="959" height="369" alt="Screenshot 2025-08-23 at 9 07 07 AM" src="https://github.com/user-attachments/assets/ac4ec845-8d58-442f-9cc2-960367511f9d" />
-)
+![Departments Screenshot](https://github.com/user-attachments/assets/ac4ec845-8d58-442f-9cc2-960367511f9d)
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
 
