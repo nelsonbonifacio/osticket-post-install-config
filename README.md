@@ -91,7 +91,7 @@ Example Agents:
 - Chris (Dept: SysAdmins) 
 - Yasmine (Dept: Support) 
 
-![Agents Screenshot](https://github.com/user-attachments/assets/ae439ebd-6386-4a74-8556-7e3ff3049363")
+![Agents Screenshot](https://github.com/user-attachments/assets/ae439ebd-6386-4a74-8556-7e3ff3049363)
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
 
@@ -106,7 +106,7 @@ Example Users:
 - Karen  
 - Ken  
 
-![Users Screenshot](https://github.com/user-attachments/assets/31d5622c-8d7a-485a-bd80-bcb54b81d30d")
+![Users Screenshot](https://github.com/user-attachments/assets/31d5622c-8d7a-485a-bd80-bcb54b81d30d)
 
 [Documentation](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 
@@ -121,7 +121,7 @@ Purpose: Define response and resolution times based on issue severity.
 - **Sev-B:** Grace 4 hours (24/7)  
 - **Sev-C:** Grace 8 hours (Business Hours)
 
-![SLA Screenshot](https://github.com/user-attachments/assets/3f786704-b32f-4c79-a855-3e8d8853630c")
+![SLA Screenshot](https://github.com/user-attachments/assets/3f786704-b32f-4c79-a855-3e8d8853630c)
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
@@ -139,7 +139,7 @@ Examples:
 - Password Reset  
 - Other  
 
-![Help Topics Screenshot](https://github.com/user-attachments/assets/31dd9e80-b699-4c41-a7e8-25ff5950b29a")
+![Help Topics Screenshot](https://github.com/user-attachments/assets/31dd9e80-b699-4c41-a7e8-25ff5950b29a)
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
