@@ -33,7 +33,7 @@ This tutorial walks through the post-installation configuration of **osTicket**,
 
 ### 1. Roles (Grouping Permissions)
 
-Purpose: Define what each group of agents (staff) can and cannot do in the system.
+Purpose: Define what each group of agents can and cannot do in the system.
 
 **Path:** `Admin Panel → Agents → Roles`  
 Example Role: **Supreme Admin**  
@@ -46,6 +46,8 @@ Example Role: **Supreme Admin**
 
 ### 2. Departments (Ticket Visibility)
 
+Purpose: Organize your helpdesk into logical groups; tickets can be assigned to specific departments.
+
 **Path:** `Admin Panel → Agents → Departments`  
 Example Department: **SysAdmins**
 
@@ -56,6 +58,8 @@ Example Department: **SysAdmins**
 ---
 
 ### 3. Teams (Cross-Department Groups)
+
+Purpose: Pull agents from multiple departments into specialized teams for certain issues.
 
 **Path:** `Admin Panel → Agents → Teams`  
 Example Team: **Online Banking**
@@ -68,6 +72,8 @@ Example Team: **Online Banking**
 
 ### 4. User Settings
 
+Purpose: Define how users can create tickets.
+
 **Path:** `Admin Panel → Settings → User Settings`  
 > Uncheck “**unregistered users can create tickets**” to require registration.
 
@@ -77,10 +83,12 @@ Example Team: **Online Banking**
 
 ### 5. Agents (Workers)
 
+Purpose: Create accounts for helpdesk workers who will manage tickets.
+
 **Path:** `Admin Panel → Agents → Add New`  
 Example Agents:  
-- Chris (Dept: SysAdmins) – pass: `chris1`  
-- Yasmine (Dept: Support) – pass: `yasmine`
+- Chris (Dept: SysAdmins) 
+- Yasmine (Dept: Support) 
 
 ![Agents Screenshot](https://via.placeholder.com/600x300.png?text=Agents+Configuration+Screenshot)
 
@@ -89,6 +97,8 @@ Example Agents:
 ---
 
 ### 6. Users (Customers)
+
+Purpose: Add end users who will submit support tickets.
 
 **Path:** `Agent Panel → Users → Add New`  
 Example Users:  
@@ -103,6 +113,8 @@ Example Users:
 
 ### 7. SLA Plans
 
+Purpose: Define response and resolution times based on issue severity.
+
 **Path:** `Admin Panel → Manage → SLA`  
 - **Sev-A:** Grace 1 hour (24/7)  
 - **Sev-B:** Grace 4 hours (24/7)  
@@ -115,6 +127,8 @@ Example Users:
 ---
 
 ### 8. Help Topics
+
+Purpose: Help users select the right category when submitting tickets.
 
 **Path:** `Admin Panel → Manage → Help Topics`  
 Examples:  
