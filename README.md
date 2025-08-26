@@ -66,8 +66,8 @@ Purpose: Pull agents from multiple departments into specialized teams for certai
 **Path:** `Admin Panel → Agents → Teams`  
 Example Team: **Online Banking**
 
-![Teams Screenshot](<img width="961" height="331" alt="Screenshot 2025-08-23 at 9 08 28 AM" src="https://github.com/user-attachments/assets/69806f19-8906-4cea-b523-fa475f9ac604" />
-)
+![Teams Screenshot](https://github.com/user-attachments/assets/69806f19-8906-4cea-b523-fa475f9ac604)
+
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html)
 
@@ -80,8 +80,7 @@ Purpose: Define how users can create tickets.
 **Path:** `Admin Panel → Settings → User Settings`  
 > Uncheck “**unregistered users can create tickets**” to require registration.
 
-![User Settings Screenshot](<img width="958" height="687" alt="Screenshot 2025-08-23 at 9 09 50 AM" src="https://github.com/user-attachments/assets/06d839b5-4c6c-4504-b015-af8fdcd3e744" />
-)
+![User Settings Screenshot](https://github.com/user-attachments/assets/06d839b5-4c6c-4504-b015-af8fdcd3e744)
 
 ---
 
@@ -94,8 +93,7 @@ Example Agents:
 - Chris (Dept: SysAdmins) 
 - Yasmine (Dept: Support) 
 
-![Agents Screenshot](<img width="958" height="399" alt="Screenshot 2025-08-23 at 9 18 35 AM" src="https://github.com/user-attachments/assets/ae439ebd-6386-4a74-8556-7e3ff3049363" />
-)
+![Agents Screenshot](https://github.com/user-attachments/assets/ae439ebd-6386-4a74-8556-7e3ff3049363")
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
 
@@ -110,8 +108,7 @@ Example Users:
 - Karen  
 - Ken  
 
-![Users Screenshot](<img width="959" height="397" alt="Screenshot 2025-08-23 at 9 21 06 AM" src="https://github.com/user-attachments/assets/31d5622c-8d7a-485a-bd80-bcb54b81d30d" />
-)
+![Users Screenshot](https://github.com/user-attachments/assets/31d5622c-8d7a-485a-bd80-bcb54b81d30d")
 
 [Documentation](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html)
 
@@ -126,8 +123,7 @@ Purpose: Define response and resolution times based on issue severity.
 - **Sev-B:** Grace 4 hours (24/7)  
 - **Sev-C:** Grace 8 hours (Business Hours)
 
-![SLA Screenshot](<img width="960" height="421" alt="Screenshot 2025-08-23 at 9 24 06 AM" src="https://github.com/user-attachments/assets/3f786704-b32f-4c79-a855-3e8d8853630c" />
-)
+![SLA Screenshot](https://github.com/user-attachments/assets/3f786704-b32f-4c79-a855-3e8d8853630c")
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 
@@ -145,8 +141,7 @@ Examples:
 - Password Reset  
 - Other  
 
-![Help Topics Screenshot](<img width="959" height="652" alt="Screenshot 2025-08-23 at 9 27 01 AM" src="https://github.com/user-attachments/assets/31dd9e80-b699-4c41-a7e8-25ff5950b29a" />
-)
+![Help Topics Screenshot](https://github.com/user-attachments/assets/31dd9e80-b699-4c41-a7e8-25ff5950b29a")
 
 [Documentation](https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html)
 
