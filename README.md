@@ -103,8 +103,8 @@ Purpose: Add end users who will submit support tickets.
 
 **Path:** `Agent Panel → Users → Add New`  
 Example Users:  
+- Jake  
 - Karen  
-- Ken  
 
 ![Users Screenshot](https://github.com/user-attachments/assets/31d5622c-8d7a-485a-bd80-bcb54b81d30d)
 
