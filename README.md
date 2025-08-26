@@ -4,14 +4,6 @@ This tutorial walks through the post-installation configuration of **osTicket**,
 
 ---
 
-## YouTube Demonstration
-
-[![YouTube Demo](https://img.youtube.com/vi/PLACEHOLDER_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=PLACEHOLDER_VIDEO_ID)
-
-> *Click the thumbnail to watch a walkthrough video.*
-
----
-
 ## Environments and Technologies Used
 
 - **Microsoft Azure** – Virtual Machines / Compute  
@@ -40,6 +32,8 @@ This tutorial walks through the post-installation configuration of **osTicket**,
 ## Configuration Steps
 
 ### 1. Roles (Grouping Permissions)
+
+Purpose: Define what each group of agents (staff) can and cannot do in the system.
 
 **Path:** `Admin Panel → Agents → Roles`  
 Example Role: **Supreme Admin**  
